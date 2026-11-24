@@ -1,0 +1,11 @@
+Student Record Management System
+- Developed using the C programming language.
+- Uses a Singly Linked List to store and manage student records.
+- Implements dynamic memory allocation using malloc() and free().
+- Stores student details such as roll number, name, and percentage.
+- Provides functionalities to add, delete, display, and modify student records.
+- Supports searching records by roll number, name, or percentage.
+- Allows sorting records alphabetically by name or by percentage in descending order.
+- Implements linked list reversal and deletion of all records.
+- Uses file handling (student.dat) to save and load student records.
+- Demonstrates key concepts such as structures, pointers, linked lists, modular programming, searching, sorting, and file handling.
